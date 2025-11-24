@@ -81,7 +81,7 @@ const Projects = () => {
                       <span className='rounded-full bg-blue-700/50 text-blue-300 px-3 py-1'>Lucide-react</
                       span>
                       <div className='flex gap-3 md:gap-5 text-center mt-5'>
-                          <a href='' className='bg-blue-500 gap-2 flex justify-center items-center px-3 py-2 md:px-6 md:py-3 rounded-xl text-white cursor-pointer'><SquareArrowOutUpRight size={22} /> Demo</a>
+                          <a href='https://tourmaline-marzipan-a4dc1e.netlify.app/' className='bg-blue-500 gap-2 flex justify-center items-center px-3 py-2 md:px-6 md:py-3 rounded-xl text-white cursor-pointer'><SquareArrowOutUpRight size={22} /> Demo</a>
                           <a href='https://github.com/Divyansh1Rai6/Divyansh_Portfolio' className='bg-gray-500/25 gap-2 flex justify-center items-center px-3 py-2 md:px-6 md:py-3 rounded-xl text-white cursor-pointer'><Github size={22} />Code</a>
                       </div>
                   </div>
