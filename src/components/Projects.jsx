@@ -9,7 +9,7 @@ const Projects = () => {
         <div className='grid grid-cols-1 md:grid-cols-2 mt-10 gap-4 md:gap-20'>
           <div className='w-full border border-blue-400 rounded-xl bg-slate-800'>
               <div className='flex h-48 items-center justify-center rounded-t-xl'>
-                  <img src='src/assets/weather.jpeg' className='h-full w-full object-cover rounded-xl'></img>
+                  <img src='/weather.jpeg' className='h-full w-full object-cover rounded-xl'></img>
               </div>
               <div className='p-4 md:p-6'> 
                   <h3 className='text-2xl text-gray-200'>Weather Applications</h3>
@@ -30,7 +30,7 @@ const Projects = () => {
            
           <div className='w-full border border-blue-400 rounded-xl bg-slate-800'>
               <div className='flex h-48 items-center justify-center rounded-t-xl'>
-                  <img src='src/assets/blog.jpeg' className='h-full w-full object-cover rounded-xl'></img>
+                  <img src='/blog.jpeg' className='h-full w-full object-cover rounded-xl'></img>
               </div>
               <div className='p-4 md:p-6'> 
                   <h3 className='text-2xl text-gray-200'>Blogg Application</h3>
@@ -50,7 +50,7 @@ const Projects = () => {
           </div>
           <div className='w-full border border-blue-400 rounded-xl bg-slate-800'>
               <div className='flex h-48 items-center justify-center rounded-t-xl'>
-                  <img src='src/assets/quiz.jpeg' className='h-full w-full object-cover rounded-xl'></img>
+                  <img src='/quiz.jpeg' className='h-full w-full object-cover rounded-xl'></img>
               </div>
               <div className='p-4 md:p-6'> 
                   <h3 className='text-2xl text-gray-200'>Quiz Game</h3>
@@ -70,7 +70,7 @@ const Projects = () => {
           </div> 
           <div className='w-full border border-blue-400 rounded-xl bg-slate-800'>
               <div className='flex h-48 items-center justify-center rounded-t-xl'>
-                  <img src='src/assets/port.jpeg' className='h-full w-full object-cover rounded-xl'></img>
+                  <img src='/port.jpeg' className='h-full w-full object-cover rounded-xl'></img>
               </div>
               <div className='p-4 md:p-6'> 
                   <h3 className='text-2xl text-gray-200'>Personal Portfolio</h3>
@@ -82,7 +82,7 @@ const Projects = () => {
                       span>
                       <div className='flex gap-3 md:gap-5 text-center mt-5'>
                           <a href='' className='bg-blue-500 gap-2 flex justify-center items-center px-3 py-2 md:px-6 md:py-3 rounded-xl text-white cursor-pointer'><SquareArrowOutUpRight size={22} /> Demo</a>
-                          <a href='' className='bg-gray-500/25 gap-2 flex justify-center items-center px-3 py-2 md:px-6 md:py-3 rounded-xl text-white cursor-pointer'><Github size={22} />Code</a>
+                          <a href='https://github.com/Divyansh1Rai6/Divyansh_Portfolio' className='bg-gray-500/25 gap-2 flex justify-center items-center px-3 py-2 md:px-6 md:py-3 rounded-xl text-white cursor-pointer'><Github size={22} />Code</a>
                       </div>
                   </div>
               </div>

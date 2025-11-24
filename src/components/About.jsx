@@ -20,7 +20,7 @@ const About = () => {
           <p className='text-gray-300'>As a Passionate web developer with expertise in modern frontend technologies, I transform ideas into engaging digital experiences. My journey in web development has equipped me with a deep understanding of both client-side and server-side technologies, allowing me to build complete, production-ready applications.</p>
           <p className='text-gray-300 mt-7'>I specialize in React ecosystem, responsive design, and performance optimization. I'm committed to writing clean, maintainable code and staying current with the latest web development trends. When I'm not coding, I enjoy contributing to open-source projects and helping other developers in the community.</p>
           <div className='flex mt-5 justify-center items-center'>
-          <a href='/src/assets/DivyanshResume.pdf' className='bg-blue-600 rounded-lg text-white text-center px-7 py-2 md:px-10 md:py-3 cursor-pointer'>Download Resume</a>      
+          <a href='/DivyanshResume.pdf' className='bg-blue-600 rounded-lg text-white text-center px-7 py-2 md:px-10 md:py-3 cursor-pointer'>Download Resume</a>      
           </div>
          
         </div>

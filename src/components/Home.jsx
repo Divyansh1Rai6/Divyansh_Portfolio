@@ -10,7 +10,7 @@ const Home = () => {
           <div className='relative w-40 h-40 md:w-48 md:h-48 rounded-full md:mt-16'>
             <div className='absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 blur-xl opacity-70 animate-pulse'></div>
               <div className='absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 blur-lg  animate-spin-slow'></div>
-              <img src='src/assets/Divyansh.jpg' className='relative rounded-full w-full h-full object-cover border-4 border-slate-900'></img>
+              <img src='/Divyansh.jpg' className='relative rounded-full w-full h-full object-cover border-4 border-slate-900'></img>
           </div>
           <div className='flex flex-col gap-5 md:gap-3 text-center md:text-left'>
         <span className='text-blue-400 text-xl'>Hello I am</span>
